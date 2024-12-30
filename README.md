@@ -12,6 +12,12 @@ LIDA-Cohere CSV Visualizer is an innovative project that leverages Microsoft's *
 - **User-Friendly Interface**: An intuitive interface for data processing and visualization.
 
 ---
+![Screenshot 2024-12-30 204213](https://github.com/user-attachments/assets/a27ee818-2b11-4a73-a52b-e989eabe9681)
+![Screenshot 2024-12-30 203954](https://github.com/user-attachments/assets/a4e63c48-0500-477d-88e6-19be5b745923)
+![Screenshot 2024-12-30 204026](https://github.com/user-attachments/assets/0a829894-2715-46d5-bc93-5aad278cdc29)
+
+
+
 
 ## Tech Stack
 - **Microsoft LIDA**: For data processing and visualization.
